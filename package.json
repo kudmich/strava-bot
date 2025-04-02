@@ -8,6 +8,10 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
+  "engines": {
+  "node": "20.x",
+  "npm": "10.x"
+  },
   "author": "Andrew Weinrich",
   "license": "MIT",
   "dependencies": {
